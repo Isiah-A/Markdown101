@@ -31,7 +31,7 @@ spat back unto me... "Unable to
 connect to the internet."
 "Bah!" I exclaimed, proving my own
 theory. My laptop was
-no longer connected. So 
+no longer connected to the net. So 
 I took out my phone and simply 
 asked Siri.
 
